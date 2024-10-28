@@ -251,4 +251,4 @@ FYI, my attention came after 18k steps and loss became lower than 0.4 after 50k 
 ![step-135500-mel-spectrogram_sample_1](https://user-images.githubusercontent.com/7423248/128587255-4945faa0-5517-46ea-b173-928eff999330.png)
 
 #### 9.When you run the old models get some errors?
-issues #37 #209 
+issues [#37](https://github.com/babysor/MockingBird/issues/37) [#209](https://github.com/babysor/MockingBird/issues/209) 
